@@ -94,4 +94,4 @@ Graph-Algorithms-Project/
 
 ## Author
 **Gustavo Oliveira Dos Santos**  
-Computer Science Student | Future Software Engineer 🚀
+Computer Science Student
