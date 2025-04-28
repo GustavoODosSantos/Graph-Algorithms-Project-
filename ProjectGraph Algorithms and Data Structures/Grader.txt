@@ -1,0 +1,12 @@
+Students:Gustavo Oliveira
+	   Yutao Lin
+CIS 256
+12/05/2022
+
+Team project
+
+Part 1
+We implemented a weighted undirected grapgh so we used a well-encapsulated ADT, which is in the package graph, by using two places to store edges (doubly-linked adjancy list and a hash table) we could get maximum speed.
+
+Part 2
+The part that was more complicated to build up since our code wasn't running properly due to several details concentred on our Krsukal code but we was able to embodied it in a static method and not violating the encapsulation of the WUGraph ADT.
